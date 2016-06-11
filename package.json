@@ -1,0 +1,22 @@
+{
+  "name": "hosts",
+  "version": "1.0.0",
+  "description": "Anti-ad and access google etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soakit/hosts.git"
+  },
+  "keywords": [
+    "hosts"
+  ],
+  "author": "soakit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soakit/hosts/issues"
+  },
+  "homepage": "https://github.com/soakit/hosts#readme"
+}
